@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning Mathematics in Berlin.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me pangyu126@gmail.com
 
 <!---
 heyheyyu/heyheyyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
